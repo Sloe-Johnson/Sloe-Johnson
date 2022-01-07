@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sloe-Johnson, irl Arianna Zuanazzi, a biomedical engineering Bachelor student at University of Padova.
+- 👋 Hi, I’m @Sloe-Johnson, a biomedical engineering Bachelor student at University of Padova.
 - 👀 Career-wise I'm interested in bioinstrumentation, imaging technology, sensor technology and optics. 
 - In my free time I enjoy astronomy, scifi, poetry writing, cooking and singing. I also have an interest in linguistics and genetics.
 - 🌱 I’m currently learning beginner Python, with the hope to move to the basics of bioinformatics and then medical data analysis.
